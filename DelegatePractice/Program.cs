@@ -56,7 +56,6 @@ namespace DelegatePractice
             Console.WriteLine(minSalary);
             Console.WriteLine(maxSalary);
             Console.WriteLine(avgSalary);
-
             #endregion
 
         }
